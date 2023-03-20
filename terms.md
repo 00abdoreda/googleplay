@@ -1,14 +1,20 @@
-Terms and Conditions for Faster Education app
-Terms and Conditions
+Terms and Conditions 
+----------------
+Terms and Conditions of faster education platform
+--------------------------
 Last updated: March 08, 2023
+-------------------------
 Please read these terms and conditions carefully before using Our Service.
+-------------------------
 Interpretation and 
 Definitions
 Interpretation
+----------------------------------------------
 The words of which the initial letter is capitalized have meanings defined 
 under the following conditions. The following definitions shall have the same 
 meaning regardless of whether they appear in singular or in plural.
 Definitions
+----------------------------------
 For the purposes of these Terms and Conditions:
 • Application means the software program provided by the Company 
 downloaded by You on any electronic device, named Faster Education 
