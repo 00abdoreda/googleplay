@@ -177,4 +177,4 @@ Service.
 Contact Us
 If you have any questions about these Terms and Conditions, You can 
 contact us:
-• By email: faster.education.eg@gmail.com
+• By email: fastereducation13@gmail.com
