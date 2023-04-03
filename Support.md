@@ -2,4 +2,8 @@ support.
 ---------------
 email for support 
 ---------------
-faster.education.eg@gmail.com
+fastereducation13@gmail.com
+
+Whatsapp
+----------------
++201068046991
